@@ -2,7 +2,9 @@
 
 最近在某客户钓鱼演练中写的脚本，由于客户环境不出网，所以通过扫描二维码钓鱼，客户希望将扫描二维码的统计落实到个人，这样就需要每个人收到的二维码都需要包含特定的信息，所以写了这个自动批量生成二维码并发送邮件的脚本，具体思路如下：
 
-![1692836499414](C:\Users\lsl06\AppData\Roaming\Typora\typora-user-images\1692836499414.png)
+
+![image](https://github.com/BambiZombie/QRPhish/assets/84751437/0be20382-53b5-4edb-9a8b-c2f4d45fbc2c)
+
 
 
 
